@@ -3,6 +3,7 @@
 # Arduino IDE 2.x
 
 [![Arduino IDE](https://github.com/arduino/arduino-ide/workflows/Arduino%20IDE/badge.svg)](https://github.com/arduino/arduino-ide/actions?query=workflow%3A%22Arduino+IDE%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Farduino-ide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Farduino-ide?ref=badge_shield)
 
 This repository contains the source code of the Arduino IDE 2.x. If you're looking for the old IDE, go to the repository of the 1.x version at https://github.com/arduino/Arduino.
 
@@ -51,3 +52,6 @@ This open source code was written by the Arduino team and is maintained on a dai
 ## License
 
 The code contained in this repository and the executable distributions are licensed under the terms of the GNU AGPLv3. The executable distributions contain third-party code licensed under other compatible licenses such as GPLv2, MIT and BSD-3. If you have questions about licensing please contact us at [license@arduino.cc](mailto:license@arduino.cc).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Farduino-ide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Farduino-ide?ref=badge_large)
